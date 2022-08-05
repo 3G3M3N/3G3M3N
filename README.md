@@ -2,4 +2,4 @@
 - 👀 I’m interested in Data Science and Cyber Security.
 - 🌱 I’m currently learning Machine Learning Algorithms.
 - 💞️ I’m highschool student.
-- 📫 How to reach me from mail, egemenazyr123@gmail.com. 
+- 📫 You can reach me with mail, egemenazyr123@gmail.com. 
