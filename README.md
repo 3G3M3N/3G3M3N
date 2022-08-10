@@ -5,5 +5,5 @@
 - 🧐 You can reach me with mail, egemenazyr123@gmail.com. 
 - 👨‍💻 I know Python, R, HTML, CSS. 
 
-<img src="https://miro.medium.com/max/1400/0*DdYAfo_NsnAeHrur" width="250" height="200"><img src="https://miro.medium.com/max/765/1*cyXCE-JcBelTyrK-58w6_Q.png" width="250" height="200"><img src="https://bilginc.com/blog/r-programlama-nedir.jpg" width="200" height="200">
+<img src="https://miro.medium.com/max/1400/0*DdYAfo_NsnAeHrur" width="250" height="200"><img src="https://miro.medium.com/max/765/1*cyXCE-JcBelTyrK-58w6_Q.png" width="250" height="200"><img src="https://bilginc.com/blog/r-programlama-nedir.jpg" width="200" height="250">
 
