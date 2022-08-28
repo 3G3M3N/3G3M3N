@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @3G3M3N
-- 👀 I’m interested in Data Science and Cyber Security.
+- 👀 I’m interested in Data Science, Cyber Security, Backend Technologys.
 - 🌱 I’m currently learning Machine Learning Algorithms.
 - 💞️ I’m highschool student.
 - 🧐 You can reach me with mail, egemenazyr123@gmail.com. 
