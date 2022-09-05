@@ -8,3 +8,4 @@
 
 <img src="https://miro.medium.com/max/1400/0*DdYAfo_NsnAeHrur" width="270" height="200"><img src="https://miro.medium.com/max/765/1*cyXCE-JcBelTyrK-58w6_Q.png" width="300" height="200"><img src="https://bilginc.com/blog/r-programlama-nedir.jpg" width="250" height="200">
 
+<img src="https://miro.medium.com/max/1200/1*D8z4rp0hYGbQwVnXT3280w.png" width="300" height="200">
