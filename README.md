@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @3G3M3N
 - 👀 I’m interested in Data Science, Web Development.
-- 🌱 I’m currently learning Django.
+- 🌱 I’m currently learning "Machine Learning".
 - 💞️ I’m highschool student.
 - 🧐 You can reach me with mail, egemenazyr123@gmail.com. 
 - 👨‍💻 I'm interested with Python, R, HTML, CSS.
