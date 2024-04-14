@@ -6,6 +6,5 @@
 - 👨‍💻 I'm interested with Python, R, HTML, CSS.
 - I dont know so much things just chilling :). I'm learning much. Nowadays ı'm interesting with machine learning.
 
-<img src="https://miro.medium.com/max/1400/0*DdYAfo_NsnAeHrur" width="270" height="200"><img src="https://miro.medium.com/max/1200/1*D8z4rp0hYGbQwVnXT3280w.png" width="300" height="200">           <img src="https://bilginc.com/blog/r-programlama-nedir.jpg" width="250" height="200">
-
+<img src="https://github.com/3G3M3N/3G3M3N/assets/83331577/fab517a5-1a74-453b-bd36-ede62916dcb9" width="270" height="200"><img src="https://miro.medium.com/max/1200/1*D8z4rp0hYGbQwVnXT3280w.png" width="300" height="200">           <img src="https://bilginc.com/blog/r-programlama-nedir.jpg" width="250" height="200">
 
