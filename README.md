@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Web Development.
 - 🌱 I’m currently learning "Machine Learning".
 - 💞️ I’m highschool student.
-- 🧐 You can reach me with mail, egemenazyr123@gmail.com. 
+- 🧐 You can reach me with mail, egemeneyuboglu3@gmail.com
 - 👨‍💻 I'm interested with Python, R, HTML, CSS.
 - I dont know so much things just chilling :). I'm learning much. Nowadays ı'm interesting with machine learning and highscholl lessons xD.
 
